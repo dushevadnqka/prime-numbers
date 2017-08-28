@@ -1,0 +1,21 @@
+{
+    "name": "georgi-aleksandrov/pn-code-challenge",
+    "description": "Code challenge, which is able to find all prime numbers by given limit and draws a multiplication table with them.",
+    "type": "project",
+    "require": {},
+    "require-dev": {
+        "phpspec/phpspec": "^4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Georgi Aleksandrov",
+            "email": "georgi.alehandro.ff@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
