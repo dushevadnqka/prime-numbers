@@ -10,7 +10,7 @@
 ### 3. Install all dependencies and prepare the application:
     - Into the project folder:
         composer install
-    * Depends on your composer alias it could be necessary to run instead:
+    * Depends on your composer alias- you may have to run the following instead:
         composer.phar install
 ### 4. Run the application:
     - With default threshold:
@@ -20,4 +20,3 @@
     
 ### 5. Test:
         vendor/bin/phpspec run
-    
